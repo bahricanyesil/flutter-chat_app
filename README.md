@@ -2,6 +2,9 @@
 
 A chat app that you can instantly message with other people.
 
+![First User](https://github.com/bahricanyesil/flutter-chat_app/blob/master/screenshots/First%20user-message.gif)
+![Second User](https://github.com/bahricanyesil/flutter-chat_app/blob/master/screenshots/Second%20user-message.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
